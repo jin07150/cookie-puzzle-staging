@@ -1,0 +1,17 @@
+{
+  "name": "쿠키 퍼즐 공방",
+  "short_name": "쿠키 퍼즐",
+  "description": "끝없이 이어지는 쿠키 퍼즐 세 가지",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF1DE",
+  "theme_color": "#FFF1DE",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
